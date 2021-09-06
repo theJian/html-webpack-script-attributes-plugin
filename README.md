@@ -1,0 +1,1 @@
+# html-webpack-script-attributes-plugin
