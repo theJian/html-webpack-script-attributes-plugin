@@ -1,0 +1,16 @@
+{
+  "name": "html-webpack-script-attributes-plugin",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "repository": "git@github.com:theJian/html-webpack-script-attributes-plugin.git",
+  "author": "Tan Kian <thejianmail@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "4",
+    "typescript": "^4.4.2"
+  }
+}
