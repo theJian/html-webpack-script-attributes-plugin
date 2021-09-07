@@ -1,8 +1,8 @@
 {
-  "name": "html-webpack-script-attributes-plugin",
+  "name": "script-attributes-html-webpack-plugin",
   "version": "0.1.0",
   "main": "lib/index.js",
-  "repository": "git@github.com:theJian/html-webpack-script-attributes-plugin.git",
+  "repository": "git@github.com:theJian/script-attributes-html-webpack-plugin.git",
   "author": "Tan Kian <thejianmail@gmail.com>",
   "license": "MIT",
   "scripts": {
